@@ -13,7 +13,3 @@ And the following 4-digit series:
 And if you ask for a 6-digit series from a 5-digit string, you deserve whatever you get.
 
 Note that these series are only required to occupy adjacent positions in the input; the digits need not be numerically consecutive.
-
-In this exercise you're practicing iterating over an array, meaning: executing an operation on each element of an array. Ruby has many useful built-in methods for iterations. Take a look at this article.
-
-Most of the methods listed in the article are not methods specifically for Array, but come from Enumerable. The article doesn't list iterating over consecutive elements. The first challenge is to find a method that does.
